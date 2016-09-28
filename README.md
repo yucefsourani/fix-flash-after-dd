@@ -6,8 +6,15 @@
 
 #Screenshot
 
-![Alt text](http "Screenshot")
+![Alt text](https://github.com/yucefsourani/fix-flash-after-dd/raw/master/1.jpg "Screenshot")
 
+![Alt text](https://github.com/yucefsourani/fix-flash-after-dd/raw/master/2.jpg "Screenshot")
+
+![Alt text](https://github.com/yucefsourani/fix-flash-after-dd/raw/master/3.jpg "Screenshot")
+
+![Alt text](https://github.com/yucefsourani/fix-flash-after-dd/raw/master/4.jpg "Screenshot")
+
+![Alt text](https://github.com/yucefsourani/fix-flash-after-dd/raw/master/5.jpg "Screenshot")
 
 
 * To Use
