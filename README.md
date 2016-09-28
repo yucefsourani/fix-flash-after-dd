@@ -6,7 +6,7 @@
 
 #Screenshot
 
-![Alt text](https://github.com/yucefsourani/arfedy/raw/master/screenshot.jpg "Screenshot")
+![Alt text](http "Screenshot")
 
 
 
